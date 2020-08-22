@@ -38,9 +38,10 @@ table {
 }
 
 td {
-	padding: 0px 80px 10px 80px;
-	overflow: hidden;
-	text-align: center;
+	padding: 0px 80px 30px 80px;
+	word-wrap: break-word; 
+	text-align: top;
+	color: white;
 }
 
 .pngstyle {
