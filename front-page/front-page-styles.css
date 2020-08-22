@@ -62,7 +62,7 @@ h1 {
 	height: 125px;
 	background-color: white;
 	border-radius: 25px 25px 0px 0px;
-	width: 50%;
+	width: 75%;
 }
 
 ul {
@@ -91,6 +91,9 @@ li a:hover {
 	background-color: #60DEAD; /** torquoise **/
 }
 
+.current {
+	color: #3BB981;
+}
 
 
 
