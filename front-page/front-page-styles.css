@@ -1,4 +1,4 @@
-<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 /*** Base Styles ***/
 * {
@@ -39,5 +39,6 @@ h1 {
 	position: relative;
 }
 
-
-</style>
+.opensans {
+	font-family: 'Montserrat', sans-serif;
+}
