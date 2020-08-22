@@ -84,6 +84,14 @@ table.center {
 	margin-right: auto;
 }
 
+.logo {
+	width: 125px;
+	float: left;
+	border: 50%;
+	position: relative;
+	left: 35px;
+}
+
 .opensans {
 	font-family: 'Montserrat', sans-serif;
 }
