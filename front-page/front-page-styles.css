@@ -11,10 +11,13 @@ body {
 	animation-duration: 4s;
 }
 
+/*** Background Color Transition Animation ***/
 @keyframes backgroundcolor {
 	from {background-color: #C9CAC7;} /** grey **/
 	to {background-color: #24d453;}
 }
+
+
 
 h1 {
 	padding-left: 600px;
