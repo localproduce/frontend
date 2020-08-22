@@ -32,5 +32,12 @@ h1 {
 
 }
 
+.logo {
+	width: 50px;
+	float: left;
+	border: 50%;
+	position: relative;
+}
+
 
 </style>
