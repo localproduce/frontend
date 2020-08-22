@@ -6,7 +6,7 @@
 }
 
 body {
-	background-color: #47DC6E; /** green **/
+	background-color: #3BB981; /** green **/
 	animation-name: backgroundcolor;
 	animation-duration: 3s;
 }
@@ -14,7 +14,7 @@ body {
 /*** Background Color Transition Animation ***/
 @keyframes backgroundcolor {
 	from {background-color: #C9CAC7;} /** grey **/
-	to {background-color: #47DC6E;} /** green **/
+	to {background-color: #3BB981;} /** green **/
 }
 
 
