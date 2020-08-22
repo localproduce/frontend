@@ -6,15 +6,15 @@
 }
 
 body {
-	background-color: #24d453; /** green **/
+	background-color: #47DC6E; /** green **/
 	animation-name: backgroundcolor;
-	animation-duration: 4s;
+	animation-duration: 3s;
 }
 
 /*** Background Color Transition Animation ***/
 @keyframes backgroundcolor {
 	from {background-color: #C9CAC7;} /** grey **/
-	to {background-color: #24d453;} /** green **/
+	to {background-color: #47DC6E;} /** green **/
 }
 
 
@@ -83,6 +83,7 @@ li a {
 	font-size: 25px;
 	text-decoration: none;
 	padding: 10px;
+	border-radius: 10px 10px 10px 10px;
 }
 
 li a:hover {
