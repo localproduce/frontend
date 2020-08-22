@@ -36,6 +36,7 @@ h1 {
 	width: 50px;
 	float: left;
 	border: 50%;
+	position: relative;
 }
 
 
