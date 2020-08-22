@@ -83,12 +83,12 @@ li a {
 	font-size: 25px;
 	font-weight: bold;
 	text-decoration: none;
-	padding: 20px;
+	padding: 25px;
 	border-radius: 10px 10px 10px 10px;
 }
 
 li a:hover {
-	background-color: #60DEAD; 
+	background-color: #60DEAD; /** torquoise **/
 }
 
 
