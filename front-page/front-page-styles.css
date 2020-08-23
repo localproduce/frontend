@@ -7,17 +7,7 @@
 
 body {
 	background-color: #3BB981; /** green **/
-	animation-name: backgroundcolor;
-	animation-duration: 3s;
 }
-
-/*** Background Color Transition Animation ***/
-@keyframes backgroundcolor {
-	from {background-color: #C9CAC7;} /** grey **/
-	to {background-color: #3BB981;} /** green **/
-}
-
-
 
 h1 {
 	padding-left: 600px;
@@ -35,7 +25,7 @@ h1 {
 }
 
 
-.container {
+.container2 {
   width: 100%;
   height: 250px;
   background-image: url("cover.jpg");
@@ -95,11 +85,6 @@ li a:hover {
 .current {
 	color: #3BB981;
 }
-
-
-
-
-
 
 
 
