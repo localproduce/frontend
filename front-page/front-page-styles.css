@@ -109,6 +109,25 @@ li a:hover {
 	text-align: center;
 }
 
+.textcontainer {
+	position: absolute;
+	top: 30%;
+	left: 40%;
+	visibility: hidden;
+	opacity: 0;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+	font-family:'Montserrat', sans-serif;
+	font-size: 30px;
+}
+
+.container1:hover .textcontainer {
+	visibility: visible;
+	opacity: 1;
+}
+
 .container1:hover .description{
 	visibility: visible;
 	opacity:0.5;
